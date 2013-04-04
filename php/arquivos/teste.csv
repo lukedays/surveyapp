@@ -1,0 +1,5 @@
+texto;Texto;1;;;1
+numero;Número;3;;;1
+uma;Uma;6;Um,Dois;;
+data;Data;5;;uma==0;
+varias;Várias;4;Um,Dois,Três;uma==1;
