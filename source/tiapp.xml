@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.titanium.medicina</id>
+<name>Medicina</name>
+<version>1.0</version>
+<publisher>lucas</publisher>
+<url>localhost</url>
+<description>No description provided</description>
+<copyright>2010 by lucas</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>bb4445c1-7da5-45f9-82ab-17ba636228f2</guid>
+</ti:app>
